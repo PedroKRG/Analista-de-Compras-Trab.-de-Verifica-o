@@ -1,0 +1,1 @@
+CREATE DATABASE carrinho_db;

@@ -1,0 +1,1 @@
+let carrinho = []; function adicionarCarrinho(p){ carrinho.push(p);}
